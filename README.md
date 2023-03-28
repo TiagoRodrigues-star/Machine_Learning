@@ -14,3 +14,4 @@ This repository encompasses the projects developed for the Machine Learning cour
 - André Falcão
 - Andreia Teixeira
 - Nuno Garcia
+mekie
