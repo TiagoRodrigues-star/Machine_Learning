@@ -27,7 +27,7 @@ This home assignment focused on the utilization of basic machine learning models
 ### Data:
 The data corresponds to the [Parkinsons Telemonitoring Data Set](https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring), which is composed of a range of biomedical voice measurements from 42 people with early-stage Parkinson's disease recruited to a six-month trial of a telemonitoring device for remote symptom progression monitoring. 
 
-### Project Objectives:
+### Assignment Objectives:
 - Producing the best regression model for 'motor UPDRS'
 - Producing the best binary classification model assuming as positive all instances with values of total_UPRDS> 40 and as negatives all remaining cases
 
@@ -51,7 +51,7 @@ This home assignment focused on pre-processing of the given data, through imputa
 ### Data:
 The data was provided by the Professors and was adaptaded from the [QSAR biodegradation Data Set](https://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation), which focuses on the study of the relationships between chemical structure and biodegradation of molecules.
 
-### Project Objectives:
+### Assignment Objectives:
 - Data pre-processing (normalization, imputation, initial feature selection)
 - In depth feature selection using correlation metrics and machine learning models (Decision Trees, Stepwise methods, Random Forests)
 - Producing the best Classification model (parameter optimization included)
